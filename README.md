@@ -1,2 +1,2 @@
-# Bot-discord
-Um bot simples para o discord, focado em auxiliar em campanhas de RPG. Pode tocar músicas e rolar dados.
+# OBS
+É necessário ter o ffmpeg configurado na máquina para que o bot seja capaz de tocar músicas.
