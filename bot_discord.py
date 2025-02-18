@@ -4,8 +4,9 @@ import yt_dlp
 import asyncio
 import random
 import re
+import sys
 
-TOKEN = 'SEU_TOKEN_AQUI'
+TOKEN = sys.argv[1:][0]
 
 # Intents necessários para o bot funcionar corretamente
 intents = discord.Intents.default()
