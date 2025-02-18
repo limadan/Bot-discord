@@ -1,3 +1,4 @@
 discord.py==2.3.1
 yt-dlp==2024.12.23
 ffmpeg
+pynacl
